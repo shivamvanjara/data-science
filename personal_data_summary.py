@@ -1,0 +1,5 @@
+name=input("enter name : ")
+age=int(input("enter age : "))
+city=input("enter city name : ")
+hobby=input("enter hobby : ")
+print(f"hey {name} ! you're{age} years old, live in  {city}, and love {hobby}.")
